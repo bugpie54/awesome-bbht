@@ -51,7 +51,7 @@ The list of tools downloaded:
 
 ### API
 
-- [secretx](https://github.com/xyele/secretx) - Extracting api keys and secrets by requesting each url in your list.
+- [secretx](https://github.com/harry1080/secretx) - Extracting api keys and secrets by requesting each url in your list.
 
 
 ### AWS S3 Bucket
